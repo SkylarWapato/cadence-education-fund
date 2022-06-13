@@ -230,7 +230,7 @@ Execute the "Check FLOW balances" script
 
 You should see the following output:
 
-> ℹ️ **Info**: We should see 50 FLOW missing from account 0x03 and 100 FLOW from account 0x04.  The 150 FLOW hs gone to the fund and the withdrawn by 0x05 (Beneficiary)
+> ℹ️ **Info**: We should see 50 FLOW missing from account 0x03 and 100 FLOW from account 0x04.  The 150 FLOW has gone to the fund and been withdrawn by 0x05 (Beneficiary)
 
 ![Check balances](assets/final-account-balances.png)
 
