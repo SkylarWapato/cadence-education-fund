@@ -248,7 +248,7 @@ You should see the following output:
 
 ### Try to do a lower limit
 
-On "Set limit (100)", Change line 7 to 99.0
+On "Set limit (100)", Change line 8 to 99.0
 
 ![Code change](assets/code-change.png)
 
