@@ -2,6 +2,10 @@
 Will be using this to provide useful information.
 > ℹ️ **Info**: General helpful information
 
+# Brass tax
+
+project: [Click Me!](https://play.onflow.org/d153b4bf-eb67-44ad-9203-631bda957903?type=script&id=f8dec14a-59c2-42a4-a922-06c8ac6074c1&storage=none)
+
 ## Deploy FLOW contracts
 
 Deploy the FungibleToken interface on 0x01
