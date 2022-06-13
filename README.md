@@ -260,6 +260,4 @@ Should FAIL with the following output:
 
 ![Limit fail](assets/limit-decrease-fail.png)
 
-> ℹ️ **Info**: Please set line 7 back to 100
-
 # Thank you very much!
