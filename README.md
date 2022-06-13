@@ -1,5 +1,5 @@
 # Cadence education fund
-First a few ground rules.
+Will be using this to provide useful information.
 > ℹ️ **Info**: General helpful information
 
 ## Deploy FLOW contracts
