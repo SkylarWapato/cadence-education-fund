@@ -1,9 +1,5 @@
-
-
 # Cadence education fund
 First a few ground rules.
-> :warning: **Expected error**: This will denote an error that is expected to occur (a good error).
-
 > ℹ️ **Info**: General helpful information
 
 ## Deploy FLOW contracts
