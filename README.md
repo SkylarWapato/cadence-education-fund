@@ -144,7 +144,7 @@ Should FAIL with the following output:
 
 ![Limit fail](assets/limit-fail-1st.png)
 
-> ℹ️ **Info**: This failure was expected as the Manager's condition of first graduating post-secondary school hadn't been met
+> ℹ️ **Info**: This failure was expected as the Manager's limit condition defaults to 0
 
 ## As fund manager, set the beneficiary's limit to 100 FLOW
 
