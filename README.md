@@ -79,7 +79,7 @@ You should see the following output:
 
 ## Make your first donation to the fund
 
-Let's make a 50 FLOW donation with account 0x03 (just because 0x03 is unaffiliated with the fund)
+Let's make a 50 FLOW donation with account 0x03
 
 Call "Public donation (50)" transaction signed by account 0x03
 
